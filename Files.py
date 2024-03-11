@@ -1,4 +1,4 @@
-# File
+# File object
 
 # The Basics:
 # f = open("test.txt", "r")
